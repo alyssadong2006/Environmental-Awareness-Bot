@@ -45,3 +45,6 @@ When you're confused or lost while trying to write your ideas into code, drawing
 **Adding More Fun Commands:** I was considering how to create a simple exploration game by using Discord. For example, the user gets to land in a  wild forest and will come across different animals in need of help or different disastrous events that occur due to global warming. The game interface would be a simple pixel screen with buttons below for the user to interact with, allowing the users to make decisions.
 
 **Reminders:** Additionally, one could also add a reminder for the users to stay environmentally friendly. For example, asking a question or giving environmental tips every day.
+
+Here's the <a href='https://www.youtube.com/watch?v=1BSHdKmOmqw&ab_channel=AlyssaDong'> video explaination</a> of the Discord Bot.
+
