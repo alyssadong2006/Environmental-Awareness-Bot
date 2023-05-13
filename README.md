@@ -1,5 +1,5 @@
-## __Environmental-Awareness-Discord-Bot__
-# A Discord Bot that helps raise awareness to global warming and other environmental issues.
+# __Environmental-Awareness-Discord-Bot__
+ A Discord Bot that helps raise awareness to global warming and other environmental issues.
 
 ## __Avaliable commands__
 * $help: gives a list of avaliable commands
