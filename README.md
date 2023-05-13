@@ -9,3 +9,10 @@ $animals {africa, australia, america, asia, europe, antartica}: By typing in $an
 Aside from these commands, you can also chat with the Discord Bot, for example: "Why should we protect the environment?""What can I do to reduce my environmental impact"
 
 Facts and information about animals are sourced from different websites, which are included in the Info_source file.
+Here is the [link]([url](https://discord.com/api/oauth2/authorize?client_id=1096833963311509574&permissions=8&scope=bot)) to the bot access
+
+How to use after forking:
+1, Create your own Discoord Bot Token and put it into the TOKEN = '{Token here}' in the main.py file.
+2, Ensure you have the discord module downloaded.
+3, Add the bot to your server.
+4, Start chatting with the bot!
