@@ -1,7 +1,7 @@
-# Environmental-Awareness-Discord-Bot
-A Discord Bot that helps raise awareness to global warming and other environmental issues.
+## __Environmental-Awareness-Discord-Bot__
+# A Discord Bot that helps raise awareness to global warming and other environmental issues.
 
-# Avaliable commands
+## __Avaliable commands__
 * $help: gives a list of avaliable commands
 * $fact: sends a fun fact about the envrionment and how pollution has impacted the world
 * $animals {africa, australia, america, asia, europe, antartica}: By typing in $animals followed by a location, the bot will give you information about an endangered animal in the location and give you the reason why it's endangered. Interesting Photos and GIFs will also be attached to the message.
@@ -10,10 +10,10 @@ Aside from these commands, you can also chat with the Discord Bot, for example: 
 
 Facts and information about animals are sourced from different websites, which are included in the Info_source file.
 
-# Use Discord Bot in Your Server
+## __Use Discord Bot in Your Server__
 Here is the <a href='https://discord.com/api/oauth2/authorize?client_id=1096833963311509574&permissions=8&scope=bot'> link</a> to the bot access
 
-# Installation
+## __Installation__
 1. Create your own Discord Bot Token and put it into the TOKEN = '{Token here}' in the main.py file.
 2. Ensure you have the discord module downloaded.
 3. Add the bot to your server.
@@ -21,15 +21,6 @@ Here is the <a href='https://discord.com/api/oauth2/authorize?client_id=10968339
 ---
 ## __Inspiration__
 Being an active user of Discord, I loved playing around and experiencing different Discord Bots. Despite my great interest, I never found the time to learn to code one myself. When I came across this competition and was creating a plan, creating a discord bot immediately came to my mind, since there were no restrictions as to how one would use code to advocate the importance of protecting the environment.
-
-## __What it does__
-**$help:** Displays all the commands for the bot.
-
-**$fact:** Sends a fun fact about the environment to raise awareness of pollution and global warming
-
-**$animals {continent}:** Select a random endangered animal in the given continent and display simple information about the animal + Why the animal is endangered + Picture or GIF of animal
-
-Additionally, users can also chat with the bot casually. However, the chat system is not supported by machine learning, so it's not as intelligent when it comes to chatting. You can still ask it questions such as "How can I reduce my environmental impact?" and "Why is protecting the environment important", etc.
 
 ## __How I built it__
 I first learned how to build a discord bot through Youtube videos. I used simple Discord commands to enable the bot to read messages and send ones themselves. Special messages (commands) make the bot respond accordingly, for this, I mainly used simple "if...else..." statements. 
