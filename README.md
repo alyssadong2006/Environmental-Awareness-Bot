@@ -14,7 +14,7 @@ Facts and information about animals are sourced from different websites, which a
 Here is the <a href='https://discord.com/api/oauth2/authorize?client_id=1096833963311509574&permissions=8&scope=bot'> link</a> to the bot access
 
 # Installation
-1,  Create your own Discord Bot Token and put it into the TOKEN = '{Token here}' in the main.py file.
-2,  Ensure you have the discord module downloaded.
-3,  Add the bot to your server.
-4,  Start chatting with the bot!
+*Create your own Discord Bot Token and put it into the TOKEN = '{Token here}' in the main.py file.
+*Ensure you have the discord module downloaded.
+*Add the bot to your server.
+*Start chatting with the bot!
